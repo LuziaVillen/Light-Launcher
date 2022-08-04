@@ -1,0 +1,23 @@
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Light Launcher.exe.config
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Light Launcher.exe
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Light Launcher.pdb
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\CmlLib.dll
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Guna.UI2.dll
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\SevenZip.dll
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\ICSharpCode.SharpZipLib.pdb
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\bin\Debug\SevenZip.xml
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.csproj.AssemblyReference.cache
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.csproj.SuggestedBindingRedirects.cache
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light_Launcher.Properties.Resources.resources
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light_Launcher.Splash.resources
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.csproj.GenerateResource.cache
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.csproj.CoreCompileInputs.cache
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.csproj.CopyComplete
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.exe
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light Launcher.pdb
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light_Launcher.LoginPage.resources
+C:\Users\Luzia\Desktop\Light Launcher\Light Launcher\obj\Debug\Light_Launcher.MainPage.resources
